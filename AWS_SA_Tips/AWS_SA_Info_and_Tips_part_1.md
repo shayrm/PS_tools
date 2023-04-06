@@ -105,9 +105,9 @@ CIDR = stands for Classless Inter-Domain Routin
 
 CIDR Range is used to define a range of IP addresses and it may look like that
 
-192.168.10/32 = /32 means that that the IP range selected only a single IP address 192.168.10.255
-192.168.10/31 = /31 means that that the IP range selected only 2 IP addresses 192.168.10.254 and 192.168.10.255
-192.168.10/30 = /31 means that that the IP range selected only 4 IP addresses 192.168.10.252, 192.168.10.253, 192.168.10.254 and 192.168.10.255
+- 192.168.10/32 = /32 means that that the IP range selected only a single IP address 192.168.10.255
+- 192.168.10/31 = /31 means that that the IP range selected only 2 IP addresses 192.168.10.254 and 192.168.10.255
+- 192.168.10/30 = /31 means that that the IP range selected only 4 IP addresses 192.168.10.252, 192.168.10.253, 192.168.10.254 and 192.168.10.255
 
 Here you can play with different CIDR scenarios https://www.ipaddressguide.com/cidr
 
